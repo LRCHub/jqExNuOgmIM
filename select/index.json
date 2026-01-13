@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "キラー・クイーン",
+  "base_artist": "クイーン",
+  "createdAt": "2026-01-13T17:01:34.747520Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Killer Queen",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_01_Killer_Queen_Queen.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Killer Queen",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_02_Killer_Queen_Queen.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Killer Queen",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_03_Killer_Queen_Queen.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Killer Queen",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_04_Killer_Queen_Queen.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Killer Queen",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_05_Killer_Queen_Queen.txt"
+    }
+  ]
+}
